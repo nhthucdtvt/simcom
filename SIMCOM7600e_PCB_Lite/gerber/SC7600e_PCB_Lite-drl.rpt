@@ -1,0 +1,30 @@
+Drill report for /home/thucnh/Workspaces/SIMCOM/SIMCOM7600e_PCB_Lite/SC7600e_PCB_Lite.kicad_pcb
+Created on Mon 13 Aug 2018 03:56:26 PM +07
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'SC7600e_PCB_Lite.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.20mm  0.008"  (4 holes)
+    T2  0.50mm  0.020"  (122 holes)
+    T3  0.70mm  0.028"  (9 holes)
+    T4  0.80mm  0.031"  (4 holes)
+    T5  1.20mm  0.047"  (9 holes)
+    T6  1.50mm  0.059"  (2 holes)
+    T7  1.70mm  0.067"  (8 holes)
+
+    Total plated holes count 158
+
+
+Drill file 'SC7600e_PCB_Lite-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.70mm  0.028"  (2 holes)
+    T2  1.50mm  0.059"  (2 holes)
+
+    Total unplated holes count 4
